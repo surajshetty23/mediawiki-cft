@@ -1,0 +1,18 @@
+[
+    {
+      "ParameterKey": "KeyName",
+      "ParameterValue": "test-key"
+    }, 
+    {
+      "ParameterKey": "DBPassword",
+      "ParameterValue": "testPassword"
+    },
+    {
+        "ParameterKey": "DBUser",
+        "ParameterValue": "wiki"
+    },
+    {
+      "ParameterKey": "DBRootPassword",
+      "ParameterValue": "rootPassword"
+    }
+  ]
